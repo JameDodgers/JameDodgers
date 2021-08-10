@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a mobile developer in Salvador, Brazil. Intern at Escavador.com
+I'm a mobile developer in Salvador, Brazil. Intern at [Escavador](https://www.escavador.com/)
 
 - 🔭 I’ve been recently working on [React Native](https://reactnative.dev/) projects built with [Expo](https://expo.io/)
 - 🤖 In the past years I've learned developing for Android Native with a lot of `.java` and Design Patterns
